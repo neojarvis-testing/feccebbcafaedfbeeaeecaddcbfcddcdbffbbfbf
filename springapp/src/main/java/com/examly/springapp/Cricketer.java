@@ -39,6 +39,8 @@ public class Cricketer implements Comparable<Cricketer> {
     public void setCountry(String country) {
         this.country = country;
         System.out.println("retore");
+        System.out.println("autobackup");
+        System.out.println("auto");
     }
 
     @Override
